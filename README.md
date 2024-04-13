@@ -16,3 +16,6 @@ prop_oilcan_02a
 prop_storagetank_02b
 prop_tanktrailer_01a
 ```
+
+## Usage
+Add this resource to your server's resources folder and edit your server.cfg file by adding `ensure fivem_non_exploding_props` (or whatever you named the resource in case you changed it) to it.
